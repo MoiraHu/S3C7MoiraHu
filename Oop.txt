@@ -1,0 +1,27 @@
+- Class: A software blueprint for implementing objects of a given type 
+- Object: The thing that being created or manipulated by the program together with the operations that manipulate it 
+
+- Attribute: The characteristics of the objects  
+- Behavior: which an object is characterized by  
+- Encapsulation: Combining an object’s data and methods into a single unit called a class  
+- Constructor: Creates an object of the class 
+- Invoke: To call a method in a class 
+- Getter methods: A class that gets values 
+- Setter methods: A class that controls variables
+
+a) A fax machine class. Objects of this class enable you to send or receive faxes.
+	Attribute: Mass, Volume, Ink, speed
+	Behavior: Scan images and send images to another fax machine 
+b) An audio speaker class
+	Attribute: Volume
+	Behavior: Making sound as clicks
+c) A computer mouse class
+	Attribute: Sensitivity, Mass, Volume
+	Behavior: Control the mouse and page
+d) A TV remote control class.
+	Attribute: Mass, Sensitivity
+	Behavior: Control the TV Scene
+
+A bicycle: 
+	Attribute: Wheels 
+	Behavior: Ride it and go along
