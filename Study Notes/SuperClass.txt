@@ -1,0 +1,13 @@
+
+
+1. Inheritance：it defines a relationship between objects that share characteristics. 
+2. Superclass：an existing class
+3. Subclass：a new class, called a subclass, is created from an existing class, called a superclass 
+4. extends : The process of extending from superclass to subclass
+5. super()：A subclass can call a method in its superclass by using super 
+
+6.   What is the difference between superclass and subclass, give at least 1 example?
+Subclass has more characteristics while superclass has less
+
+7.  Which is bigger? A superclass or a subclass?
+Subclass is bigger
