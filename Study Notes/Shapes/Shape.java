@@ -35,7 +35,7 @@ public abstract class Shape //implements Comparable
     public static void runner()
     {
         Random rng=new Random();
-        Shape x= new Circle(rng.nextInt(),"Judy's Circle");
+        Shape x= new Circle(rng.nextInt(),¡±Moira¡¯s Circle");
         System.out.println("This circle's name is: "+x.getName());
         System.out.println("This circle's area is: "+x.area());
         System.out.println("This circle's circumference is: "+x.perimeter());
@@ -47,12 +47,12 @@ public abstract class Shape //implements Comparable
         
         
        
-        Shape aa= new Rectangle(rng.nextInt(),rng.nextInt(), "Judy's Square");        
+        Shape aa= new Rectangle(rng.nextInt(),rng.nextInt(), ¡°Moira¡¯s Square");        
         System.out.println("This rectangle's area is: "+aa.area());
         System.out.println("This rectangle's perimeter is: "+aa.perimeter());  
         System.out.println("This rectangle's semi-perimeter is: "+aa.semiPerimeter());  
        
-        Shape tri=new Triangle(5,4,"Judy's triangle");
+        Shape tri=new Triangle(5,4,¡±Moira¡¯s triangle");
         System.out.println("This triangle's area is: "+tri.area());
         System.out.println("This trianle's perimeter is: "+tri.perimeter());
         
